@@ -61,7 +61,7 @@
 
 1. Navigate to where you code is using the `cd` command. 
 2. Initalize a Git repository by running `git init`. 
-3. Create a new Github repository [or click here](https://github.com/new). 
+3. Create a new Github repository or [click here](https://github.com/new). (You might want to initalize this repository as private if you want to keep your code a secret 👀 from other teams.)
 4. Create a README.md file with information about the repository (this can be shown to judges).
 5. Add a .gitinore file like the one located in this resposiory [here](https://github.com/Envertronics/GitHub-Tutorial/blob/master/.gitignore).
 6. Type `git commit -m "first commit"`. 
